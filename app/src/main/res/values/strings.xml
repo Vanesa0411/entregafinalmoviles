@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="opcion4" translatable="false">
+
+        Jardín es una localidad andina del noroeste de Colombia, conocida por sus casas de colores brillantes, las exhibiciones florales coloridas y los dulces de leche.
+        La plaza principal, Parque El Libertador, tiene rosaledas, una fuente central y la Basílica de la Inmaculada Concepción, de estilo neogótico y con torres
+        gemelas y vista desde su campanario. La Casa Museo Clara Rojas Peláez ofrece arte, antigüedades y una biblioteca en un edificio colonial.
+
+    </string>
+
+
+</resources>

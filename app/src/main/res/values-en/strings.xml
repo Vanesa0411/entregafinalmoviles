@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="opcion4">
+        Jardín is an Andean town in northwestern Colombia, known for its brightly colored houses, colorful flower displays, and sweet milk.
+        The main square, Parque El Libertador, has rose gardens, a central fountain and the Basilica of the Immaculate Conception, neo-Gothic in style and with towers
+        twins and view from its bell tower. The Clara Rojas Peláez House Museum offers art, antiques and a library in a colonial building.
+
+
+    </string>
+
+</resources>
